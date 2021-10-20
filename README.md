@@ -2,7 +2,7 @@
 
 ## Objective
 
-Your assignment is to build an internal API for a fake financial institution using Node and no framework.
+Your assignment is to build an internal API for a fake financial institution using Node.js and Typescript.
 Brief
 
 While modern banks have evolved to serve a plethora of functions, at their core, 
